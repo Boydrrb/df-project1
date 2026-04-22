@@ -8,4 +8,4 @@ This is my data science portfolio
 -Minoring in spanish 
 
 
-[project1](https://boydrrb.github.io/df-project1/project/Project1)
+[project1](https://boydrrb.github.io/df-project1/projects/Project1)
